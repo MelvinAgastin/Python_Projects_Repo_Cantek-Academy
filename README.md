@@ -1,8 +1,11 @@
 # Web_Scraping: Python_Project
 
+## The World's Highest-Paid Athletes🌟
+![Richest-Athletes-in-the-World](https://github.com/MelvinAgastin/Python_Projects_Repo_Cantek-Academy/assets/140557465/5cc73f57-b373-4d16-bd8f-dda1d1d52d45)
+
 - **Project objective:** 
 
-    The main objective of this project is to scrape data from a source (e.g., a website) that provides information on sports personalities' earnings. The collected data will then be converted into DataFrames, cleaned, and analyzed to derive meaningful insights. Finally, visualizations will be created to effectively communicate the findings
+    The main objective of this project is to scrape data from a [source](https://en.wikipedia.org/wiki/Forbes_list_of_the_world%27s_highest-paid_athletes_) that provides information on sports personalities' earnings. The collected data will then be converted into DataFrames, cleaned, and analyzed to derive meaningful insights. Finally, visualizations will be created to effectively communicate the findings
 
 - **Analysis Highlights:** 
 
