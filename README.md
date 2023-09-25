@@ -4,7 +4,7 @@
 
     The main objective of this project is to scrape data from a source (e.g., a website) that provides information on sports personalities' earnings. The collected data will then be converted into DataFrames, cleaned, and analyzed to derive meaningful insights. Finally, visualizations will be created to effectively communicate the findings
 
-- **Analysis Highlights:
+- **Analysis Highlights:** 
 
   - Web Scraping: Utilize Python libraries like Beautiful Soup to extract relevant data from a chosen source.
     * Beautiful Soup facilitates the parsing of HTML content, while Requests is used to make HTTP requests to the target website.  
